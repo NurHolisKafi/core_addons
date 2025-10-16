@@ -136,11 +136,11 @@ app_license = "mit"
 # Document Events
 # ---------------
 # Hook on document methods and events
-doc_events = {
-	"Repost Item Valuation": {
-		"on_update": "core_addons.custom.repost_item_valuation.update_repost_tool",
-	}
-}
+# doc_events = {
+	# "Repost Item Valuation": {
+	# 	"on_update": "core_addons.custom.repost_item_valuation.update_repost_tool",
+	# }
+# }
 
 # Scheduled Tasks
 # ---------------
